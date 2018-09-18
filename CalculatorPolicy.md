@@ -1,4 +1,4 @@
-**Calculator**
+**Calculator** <br/>
 **Privacy Policy of Calculator**
 
 Privacy Policy
